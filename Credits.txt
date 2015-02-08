@@ -1,0 +1,29 @@
+
+1 VERSIONINFO
+FILEVERSION 5,3,1,0
+PRODUCTVERSION 5,3,1,0
+FILEOS 0x4
+FILETYPE 0x1
+{
+BLOCK "StringFileInfo"
+{
+	BLOCK "040904B0"
+	{
+		VALUE "Comments", "iniRun- Easy Runing Executes With Unlimited-Long String Of Arguments. No Need For Special Formating Like Adding Extra Spaces Or Double(Single) Quotes, Information Is Easly Formated Using INI File In The Same Folder, And Sended To The Application As Neat As It Can Be, A.K.A Programaticly. Using Fast ShellExecute And A Few More Fast API Calls. The Execution Is Done With No Delays Or Messeges, And iniRun Closes Itself Once Maked The Call To Run The Execute File, Also It Is Done Using Real Name Of The Files In The System, Meaning 'Old 8.3 Names', Actually Those Are Still Used Even In Windows 7, It Is Just 'Preetify' Using Convertions Tables, That The OS Is Holding For Every File In The System."
+		VALUE "CompanyName", "Elad Karako"
+		VALUE "FileDescription", "iniRun"
+		VALUE "FileVersion", "5.3.1"
+		VALUE "InternalName", "iniRun"
+		VALUE "LegalCopyright", "© Elad Karako Freeware "
+		VALUE "LegalTrademarks", "Elad Karako® iniRun"
+		VALUE "OriginalFilename", "iniRun.exe"
+		VALUE "ProductName", "Elad Karako® iniRun"
+		VALUE "ProductVersion", "5.3.1"
+	}
+}
+
+BLOCK "VarFileInfo"
+{
+	VALUE "Translation", 0x0409 0x04B0
+}
+}
